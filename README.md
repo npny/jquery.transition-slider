@@ -1,4 +1,4 @@
-[JQuery Transition Slider](https://github.com/theinternetismadeofcats/jquery.transition-slider)
+[JQuery Transition Slider](https://github.com/npny/jquery.transition-slider)
 ==========================
 Pure CSS3 Transitions slider
 
@@ -60,4 +60,4 @@ License
 -------
 
 jquery.transition-slider.js is released under the [MIT license](http://opensource.org/licenses/mit-license.php).
-(c) Pierre Boyer 2013
+Pierre Boyer, 2013

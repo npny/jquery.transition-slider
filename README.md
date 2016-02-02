@@ -1,14 +1,14 @@
 [JQuery Transition Slider](https://github.com/npny/jquery.transition-slider)
 ==========================
-Pure CSS3 Transitions slider
+This is a small slider I wrote for a company website, where the slide would build up as its elements animated in, then the entire slide would disappear, letting the next one start building up, and so on.
 
 
 
 Usage
 -----
 
-The only thing the javascript does is show/hide frames and add/remove classes to trigger the transitions, everything else is defined in CSS
-Features autoplay, keyboard, and touchscreen navigation
+The only thing the javascript does is show/hide frames and add/remove classes to trigger the transitions, everything else is defined in CSS.  
+Features autoplay, keyboard, and touchscreen navigation.
 
 CSS setup is pretty straightforward. For each one of your slides, there's three things to do :
  - Define your slide normally, in its final state, title and content properly placed, colored.
@@ -51,8 +51,8 @@ Example Code
 .animation
 {
 	h1 {transition: color 250ms;}
-	h1 {transition: opacity 500ms; transition-delay: 100ms}
-	h1 {transition: margin-left 250ms, opacity 250ms;}
+	p {transition: opacity 500ms; transition-delay: 100ms}
+	img {transition: margin-left 250ms, opacity 250ms;}
 }
 ```
 
